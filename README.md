@@ -30,3 +30,11 @@ err = apiController.CloseCamera();
 
 ## Screenshots
 ![](Screenshots.png)
+
+
+## Complication
+Put this code folder as below in Vimba CPP examples folder:
+```
+C:\Users\Public\Documents\Allied Vision\Vimba_5.1\VimbaCPP_Examples\AsynchronousGrab\VmbCPP_AcquireSingleImage_Loop_Open_Fetch_Close\Build\VS2010
+```
+You may use Vimba 4.0, Vimba 6.0 or higher and replace above 5.1 with 4.0 or 6.0, etc,.
